@@ -3057,7 +3057,7 @@ input, select, textarea {
 		}
 
 		.spotlight:before {
-			background-image: url("images/overlay.png");
+			/* background-image: url("images/overlay.png"); */
 			content: '';
 			display: block;
 			height: 100%;
@@ -3745,9 +3745,9 @@ input, select, textarea {
 
 /* Small */
 
-	#navPanel, #titleBar {
+	/* #navPanel, #titleBar {
 		display: none;
-	}
+	} */
 
 	@media screen and (max-width: 736px) {
 
@@ -3871,7 +3871,7 @@ input, select, textarea {
 				padding-top: 44px !important;
 			}
 
-			#titleBar {
+			/* #titleBar {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3942,7 +3942,7 @@ input, select, textarea {
 						text-align: center;
 						top: 0;
 						width: 54px;
-					}
+					} */
 
 			#navPanel {
 				-moz-backface-visibility: hidden;
